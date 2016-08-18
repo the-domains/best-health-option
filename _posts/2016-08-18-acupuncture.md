@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T22:12:08.154Z'
+datePublished: '2016-08-18T22:13:56.619Z'
 sourcePath: _posts/2016-08-18-acupuncture.md
 hasPage: true
 author: []
@@ -14,7 +14,7 @@ metadata:
   title: Acupuncture
   publisher: {}
   description: ''
-dateModified: '2016-08-18T22:12:07.599Z'
+dateModified: '2016-08-18T22:13:56.161Z'
 title: Acupuncture
 id: 022a1c74-98e5-4267-b0e3-2c3e05f0f84f
 publisher: {}
@@ -25,15 +25,35 @@ _type: Blurb
 
 ---
 Acupuncture
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5532b049-85fe-47ef-8b80-a9a624ab3681.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e10266ed62a39a5adf95684310bcdd0/croprotate.jpg?cropheight=846&cropwidth=832&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5532b049-85fe-47ef-8b80-a9a624ab3681.jpg&x=24&y=17)
 
 # Acupuncture
 
-Acupuncture
+Acupuncture description here
 
 Initial Treatment (New Patient) Acupuncture Session: $120
 
 Returning Patient Acupuncture Session: $75
+
+* Detailed consultation
+* Eastern tongue and pulse diagnosis
+* Acupuncture or electro-acupuncture treatment
+* Accessory Technique: Tui Na, Cupping, or Gua Sha (See below for more detail)
+* Nutritional consultation
+
+Please be prepared to stay for 1.5 hours on the first visit
+
+**Things to consider before arriving for your**
+
+**Acupuncture treatment:**
+
+**Make sure to eat something light an hour or two before arriving**
+
+• Try to avoid the intake of caffeine or pain medications
+
+• Wear loose fitting clothes
+
+• Bring a list of medications you are taking
 
 ### Nutrition and Chinese herbal medicine
 
