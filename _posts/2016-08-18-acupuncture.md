@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T21:40:33.647Z'
+datePublished: '2016-08-18T22:12:08.154Z'
 sourcePath: _posts/2016-08-18-acupuncture.md
 hasPage: true
 author: []
@@ -14,7 +14,7 @@ metadata:
   title: Acupuncture
   publisher: {}
   description: ''
-dateModified: '2016-08-18T21:40:29.053Z'
+dateModified: '2016-08-18T22:12:07.599Z'
 title: Acupuncture
 id: 022a1c74-98e5-4267-b0e3-2c3e05f0f84f
 publisher: {}
@@ -25,7 +25,7 @@ _type: Blurb
 
 ---
 Acupuncture
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b52e817-b71c-46d6-bf20-12032981630d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5532b049-85fe-47ef-8b80-a9a624ab3681.jpg)
 
 # Acupuncture
 
@@ -40,7 +40,7 @@ Returning Patient Acupuncture Session: $75
 After an acupuncture treatment, nutritional guidelines with specific food choices are promoted and Chinese herbs/formulas are prescribed. Both the guidelines and prescriptions are specific to the patient and what is being treated; symptoms and underlying causes of the ailment are considered.
 
 Acupuncture may be identified with the needle, but our practitioners will be using adjunct therapies (cupping, massage, gua sha, moxibustion) individually or as a combined action, to assist those needles in providing a longer-lasting, more profound effect in your healing process throughout your course of treatment.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6394fdc8-a170-47a9-8e6c-c26643ca5653.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e405fa55-5e1b-4a08-aaa8-9e3aa0c49b68.jpg)
 
 Electrical stimulation acupuncture (e-stim or acu-stimulation)
 
