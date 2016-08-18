@@ -11,8 +11,9 @@ color:
   saturation: 0.8863572052214295
   rhythmicContrast: 0.9449668598826975
 opengraph:
-  image: null
-  type: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/e053197a-894e-41ce-a6e4-19a9d044da7e.jpg
+  type: BHO
   appId: 'https://www.facebook.com/BestHealthOption'
 layout_spectrum: 0.5849067892413586
 analytics:
